@@ -1,2 +1,2 @@
 # .NET-Framework-Training
-I use C# programming language
+I wrote sample code that use c# programming language.
